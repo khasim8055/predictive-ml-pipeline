@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+data/*.csv
+models/*.joblib
+models/*.json
+reports/*.md
+.env
+*.egg-info/
+dist/
+build/
+.DS_Store
